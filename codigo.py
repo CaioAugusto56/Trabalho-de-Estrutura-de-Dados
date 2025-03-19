@@ -1,3 +1,5 @@
+#Usei as bibliotecas Numpy e csv para fazer a análise do banco de dados do IMDB
+
 import numpy as np
 import csv
 
